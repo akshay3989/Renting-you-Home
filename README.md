@@ -1,1 +1,1 @@
-#Renting your Home like a Airbnb.
+#Renting your Home  like a Airbnb.
